@@ -1,0 +1,206 @@
+Couldn't import dot_parser, loading of dot files will not be possible.
+Captions for image frame0.jpg:
+  0) a picture of a man in a suit . (p=0.000007)
+  1) a picture of a man in a suit and tie . (p=0.000006)
+  2) a picture of a man in a suit and tie (p=0.000004)
+Captions for image frame180.jpg:
+  0) a man is riding a wave on a surfboard . (p=0.000015)
+  1) a man is standing in the ocean with a surfboard . (p=0.000007)
+  2) a man is standing in the water with a surfboard . (p=0.000005)
+Captions for image frame400.jpg:
+  0) a man wearing a suit and tie in a room . (p=0.000003)
+  1) a man wearing a suit and tie in a room (p=0.000001)
+  2) a man wearing a suit and tie in a kitchen . (p=0.000001)
+Captions for image frame780.jpg:
+  0) a man holding an umbrella in the rain . (p=0.000055)
+  1) a man holding an umbrella in the snow . (p=0.000024)
+  2) a man holding an umbrella in the rain (p=0.000014)
+Captions for image frame1200.jpg:
+  0) a man in a suit and tie in a room . (p=0.000076)
+  1) a man wearing a suit and tie in a room . (p=0.000064)
+  2) a man in a suit and tie in a room (p=0.000021)
+Captions for image frame1520.jpg:
+  0) a man is holding a pair of scissors . (p=0.000051)
+  1) a man holding a pair of scissors on a table . (p=0.000004)
+  2) a man holding a pair of scissors and a knife . (p=0.000003)
+Captions for image frame1900.jpg:
+  0) a bird is perched on the ground in the water . (p=0.000021)
+  1) a bird is perched on the ground near the water . (p=0.000020)
+  2) a bird is perched on the ground near a tree . (p=0.000012)
+Captions for image frame2080.jpg:
+  0) a man standing in front of a bunch of bananas . (p=0.000007)
+  1) a man standing in front of a bunch of bananas (p=0.000003)
+  2) a man standing in front of a large truck . (p=0.000002)
+Captions for image frame2100.jpg:
+  0) a man standing next to a fire hydrant . (p=0.000030)
+  1) a man standing in front of a fire hydrant . (p=0.000017)
+  2) a man standing in front of a fire hydrant (p=0.000004)
+Captions for image frame2120.jpg:
+  0) a man sitting on a bench next to a bicycle . (p=0.000004)
+  1) a man sitting on a bench next to a pile of luggage . (p=0.000001)
+  2) a man sitting on a bench next to a bicycle (p=0.000001)
+Captions for image frame2140.jpg:
+  0) a sign on the side of a road . (p=0.000170)
+  1) a sign on the side of the road . (p=0.000082)
+  2) a sign on the side of the road (p=0.000048)
+Captions for image frame2200.jpg:
+  0) a man sitting in front of a pile of bananas . (p=0.000012)
+  1) a man sitting in front of a pile of bananas (p=0.000003)
+  2) a man sitting at a table with a bunch of bananas . (p=0.000002)
+Captions for image frame2300.jpg:
+  0) a pair of scissors sitting on top of a wooden surface . (p=0.000072)
+  1) a pair of scissors sitting on top of a wooden floor . (p=0.000069)
+  2) a close up of a pair of scissors on a wooden surface . (p=0.000010)
+Captions for image frame2660.jpg:
+  0) a man is holding an umbrella in the air . (p=0.000009)
+  1) a man with an umbrella on the ground . (p=0.000008)
+  2) a man is holding an umbrella in the sky . (p=0.000008)
+Captions for image frame3080.jpg:
+  0) a bird is flying in the sky near a tree . (p=0.000010)
+  1) a bird is flying in the air near a tree . (p=0.000010)
+  2) a bird is flying in the air near the water . (p=0.000006)
+Captions for image frame3220.jpg:
+  0) a snow boarder is in the snow on a sunny day . (p=0.000004)
+  1) a snow boarder is in the air on a sunny day . (p=0.000004)
+  2) a snow boarder is in the air on a snowy day . (p=0.000001)
+Captions for image frame3240.jpg:
+  0) a group of people riding on top of a surfboard . (p=0.000003)
+  1) a group of people riding on top of a snow covered mountain . (p=0.000001)
+  2) a group of people riding on the back of a surfboard . (p=0.000001)
+Captions for image frame3280.jpg:
+  0) a man riding a wave on top of a wave . (p=0.000314)
+  1) a man riding a wave on top of a surfboard . (p=0.000258)
+  2) a person riding a wave on a surfboard . (p=0.000161)
+Captions for image frame3340.jpg:
+  0) a black and white photo of a black and white dog . (p=0.000046)
+  1) a black and white photo of a dog and a dog . (p=0.000032)
+  2) a black and white photo of a dog and a dog (p=0.000025)
+Captions for image frame3440.jpg:
+  0) a large bird is sitting on a tree branch . (p=0.000048)
+  1) a large bird is sitting on a branch . (p=0.000044)
+  2) a large bird is sitting on the ground . (p=0.000042)
+Captions for image frame3720.jpg:
+  0) a group of birds are standing in the water . (p=0.000151)
+  1) a group of birds that are standing in the water . (p=0.000072)
+  2) a group of birds are standing in the water (p=0.000034)
+Captions for image frame3980.jpg:
+  0) a bird is perched on the ground near the water . (p=0.000016)
+  1) a bird is perched on the ground in the water . (p=0.000013)
+  2) a bird is perched on the ground near the ocean . (p=0.000010)
+Captions for image frame4200.jpg:
+  0) a pair of scissors sitting next to each other . (p=0.000252)
+  1) a pair of scissors sitting on top of a wooden floor . (p=0.000098)
+  2) a pair of scissors sitting on top of a wooden table . (p=0.000043)
+Captions for image frame4420.jpg:
+  0) a man and woman are standing in a room . (p=0.000016)
+  1) a man and a woman are standing in a room . (p=0.000009)
+  2) a man and woman are standing in a room (p=0.000006)
+Captions for image frame4460.jpg:
+  0) a cat sitting on a desk next to a computer . (p=0.000047)
+  1) a cat sitting on a desk next to a laptop . (p=0.000037)
+  2) a cat sitting on a desk next to a laptop computer . (p=0.000025)
+Captions for image frame4740.jpg:
+  0) a pair of scissors sitting on top of a wooden floor . (p=0.000093)
+  1) a pair of scissors sitting on top of a wooden surface . (p=0.000052)
+  2) a pair of scissors sitting on top of a wooden table . (p=0.000048)
+Captions for image frame5080.jpg:
+  0) a man wearing a suit and tie in a room . (p=0.000140)
+  1) a man wearing a suit and tie and a tie . (p=0.000052)
+  2) a man wearing a suit and tie in a room (p=0.000041)
+Captions for image frame5260.jpg:
+  0) a man wearing a suit and tie in a room . (p=0.000066)
+  1) a man wearing a suit and tie in a room (p=0.000020)
+  2) a man wearing a suit and tie standing in a room . (p=0.000017)
+Captions for image frame5840.jpg:
+  0) a man wearing a suit and tie in a room . (p=0.000081)
+  1) a man wearing a suit and tie standing in a room . (p=0.000029)
+  2) a man wearing a suit and tie in a room (p=0.000025)
+Captions for image frame6400.jpg:
+  0) a man wearing a suit and a tie (p=0.000288)
+  1) a man wearing a suit and tie and a tie . (p=0.000175)
+  2) a man wearing a suit and tie in a suit . (p=0.000166)
+Captions for image frame6700.jpg:
+  0) a man wearing a suit and tie in a room . (p=0.000063)
+  1) a man wearing a suit and tie in a room (p=0.000020)
+  2) a man wearing a suit and tie standing in front of a window . (p=0.000011)
+Captions for image frame6960.jpg:
+  0) a group of birds are standing in the grass . (p=0.000037)
+  1) a bunch of birds are standing in the grass . (p=0.000030)
+  2) a group of birds are standing in a field . (p=0.000026)
+Captions for image frame7080.jpg:
+  0) a baby is standing next to a tree . (p=0.000031)
+  1) a baby is standing next to a tree (p=0.000008)
+  2) a baby is standing next to a giraffe (p=0.000003)
+Captions for image frame7220.jpg:
+  0) a snow covered mountain in the snow near a mountain . (p=0.000007)
+  1) a snow covered mountain in the snow with a mountain in the background . (p=0.000002)
+  2) a snow covered mountain in the snow near a mountain (p=0.000001)
+Captions for image frame7600.jpg:
+  0) a large airplane flying in the sky in the sky . (p=0.000013)
+  1) an airplane is flying in the sky near a tree . (p=0.000003)
+  2) a large airplane flying in the sky in the air . (p=0.000003)
+Captions for image frame7960.jpg:
+  0) a wooden bench in the middle of a field . (p=0.000032)
+  1) a wooden bench sitting in the middle of a field . (p=0.000026)
+  2) a wooden bench in the middle of a field (p=0.000011)
+Captions for image frame7980.jpg:
+  0) a large brown and white dog laying on a field . (p=0.000006)
+  1) a small brown and white dog laying on a field . (p=0.000006)
+  2) a small brown and white dog laying on the ground . (p=0.000005)
+Captions for image frame8020.jpg:
+  0) a large brown bear standing next to a tree . (p=0.000039)
+  1) a large brown bear standing in a field . (p=0.000018)
+  2) a large brown teddy bear sitting in a field . (p=0.000011)
+Captions for image frame8060.jpg:
+  0) a polar bear is standing in the snow . (p=0.000160)
+  1) a polar bear is standing in the water . (p=0.000069)
+  2) a polar bear is standing in the snow (p=0.000037)
+Captions for image frame8100.jpg:
+  0) a bird is standing in the water near the water . (p=0.000036)
+  1) a bird is standing in the water near a tree . (p=0.000023)
+  2) a bird is standing in the water near the ocean . (p=0.000012)
+Captions for image frame8160.jpg:
+  0) a black and white bird sitting on top of a wooden surface . (p=0.000014)
+  1) a black and white bird sitting on top of a surfboard . (p=0.000009)
+  2) a black and white bird sitting on top of a wooden bench . (p=0.000005)
+Captions for image frame8220.jpg:
+  0) a snow covered in snow covered in snow . (p=0.000147)
+  1) a snow covered in snow covered in snow (p=0.000093)
+  2) a snow covered in snow covered in snow covered in snow . (p=0.000016)
+Captions for image frame8320.jpg:
+  0) a person walking on the beach with a surfboard . (p=0.000019)
+  1) a person walking on the beach with an umbrella . (p=0.000016)
+  2) a person walking on the beach with a kite . (p=0.000009)
+Captions for image frame8420.jpg:
+  0) a bird is perched on a tree branch . (p=0.000424)
+  1) a bird is perched on a tree branch (p=0.000183)
+  2) a bird is perched on a branch in a tree . (p=0.000016)
+Captions for image frame8440.jpg:
+  0) a bird is perched on a tree branch . (p=0.000164)
+  1) a bird is perched on a tree branch (p=0.000075)
+  2) a bird is perched on the ground near a tree . (p=0.000021)
+Captions for image frame8520.jpg:
+  0) a bird is perched on a tree branch . (p=0.000319)
+  1) a bird is perched on a tree branch (p=0.000167)
+  2) a bird is perched on the ground near a tree . (p=0.000036)
+Captions for image frame8680.jpg:
+  0) a man and a woman are standing in a kitchen . (p=0.000060)
+  1) a man and a woman are sitting in a kitchen . (p=0.000051)
+  2) a man and a woman are standing in a kitchen (p=0.000023)
+Captions for image frame8760.jpg:
+  0) a small bird sitting on top of a tree branch . (p=0.000123)
+  1) a small bird sitting on top of a tree . (p=0.000113)
+  2) a small bird is standing in the grass . (p=0.000070)
+Captions for image frame8960.jpg:
+  0) a bird is perched on the edge of a tree . (p=0.000040)
+  1) a bird is perched on the ground in the water . (p=0.000033)
+  2) a bird is perched on the edge of the water . (p=0.000032)
+Captions for image frame9180.jpg:
+  0) a picture of a man in a suit . (p=0.000007)
+  1) a picture of a man in a suit and tie . (p=0.000006)
+  2) a picture of a man in a suit and tie (p=0.000004)
+Captions for image frame9300.jpg:
+  0) a bird is flying in the sky near a tree . (p=0.000012)
+  1) a bird is flying in the sky near the water . (p=0.000012)
+  2) a bird is flying in the air near a tree . (p=0.000011)
+
